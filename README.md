@@ -1,6 +1,6 @@
 # Sorting_Techniques
 
-Bubble sort is a simple sorting algorithm that repeatedly steps through the list, compares adjacent elements, and swaps them if they are in the wrong order. 
+#Bubble sort : is a simple sorting algorithm that repeatedly steps through the list, compares adjacent elements, and swaps them if they are in the wrong order. 
 The pass through the list is repeated until the list is sorted.
 
 Selection sort is a simple in-place comparison-based sorting algorithm. It divides the input list into two parts: the sublist of items already sorted and the sublist of items remaining to be sorted. 
