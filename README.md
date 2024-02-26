@@ -22,3 +22,11 @@ It is a sorting algorithm that builds the final sorted array one element at a ti
 Heap sort 
 --
 is a comparison-based sorting algorithm that uses a binary heap data structure. It first converts the input array into a heap, then repeatedly extracts the maximum element from the heap and rebuilds the heap until the array is sorted.
+
+ Counting sort 
+ --
+ It is an integer sorting algorithm that operates by counting the number of occurrences of each unique element in the input array and using those counts to reconstruct a sorted sequence.
+
+ Radix sort
+ --
+It is a non-comparative sorting algorithm that sorts integers by grouping them by individual digits or groups of digits which share the same position and value. It can be implemented using counting sort as a subroutine.
