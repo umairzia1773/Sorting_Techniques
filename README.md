@@ -18,3 +18,7 @@ It uses the merge subroutine to merge the two halves into a single sorted list.
 Insertion sort 
 --
 It is a sorting algorithm that builds the final sorted array one element at a time. It iterates through the input list, shifting elements as necessary to insert each element into its correct position.
+
+Heap sort 
+--
+is a comparison-based sorting algorithm that uses a binary heap data structure. It first converts the input array into a heap, then repeatedly extracts the maximum element from the heap and rebuilds the heap until the array is sorted.
